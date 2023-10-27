@@ -1,0 +1,591 @@
+@media(max-width:1455px) and (min-width:1201px)
+{
+    /* header top start  */
+    .banner .header .header-top .left .mail
+    {
+        padding-left: 50px;}
+    /* header top end  */
+    /* header bottom start  */
+    .banner .header .header-bottom .nav-item nav ul li{
+        padding: 14px 16px 14px 16px;}
+    /* header bottom end  */
+    /* header middle start  */
+    .banner .header .header-middle .search input{
+    width: 380px;}
+    /* header middle end  */
+
+}
+@media(max-width:1200px) and (min-width:600px)
+{
+    /* header top start  */
+    .banner .header .header-top .left{
+        display: none;
+    }
+    .banner .header .header-top {
+        display: flex;
+        justify-content: center; 
+    }
+    .banner .header .header-top .right{
+        width: 100%;
+        display: flex;
+        justify-content: end;
+    }
+    .banner .header .header-top .right .icon{
+        display: none;
+    }
+    .banner .header .header-top .right .login{
+        width: auto;
+    }
+    /* header top end  */
+    /* header middle start  */
+    .banner .header .header-middle{
+        flex-wrap: wrap;
+    }
+    
+    .banner .header .header-middle .logo{
+        width: 100%;
+        padding: 10px;
+    }
+    .banner .header .header-middle .search{
+        width: 100%;
+        display: flex;
+        padding-inline: 10px;
+    }
+    .banner .header .header-middle .service{
+        width: 100%;
+        height: 50px;
+        padding-top: 10px;
+    }
+    .banner .header .header-middle .service a
+    {
+        line-height: normal;
+    }
+    .banner .header .header-middle .search input{
+        margin: 0%;
+    }
+    .banner .header .header-middle .search .btn2{
+        width: 60px;
+    }
+    .banner .header .header-middle .search .btn{
+        display: none;
+    }
+    /* header middle end  */
+    /* header bottom start  */
+    .banner .header .header-bottom .nav-item .item{
+        display: none;
+        width: 100%;
+    }
+    .banner .header .header-bottom .nav-item{
+        background-color:  #4C4C4C;
+        width: 100%;
+    }
+    .banner .header .header-bottom{
+        height: 50px;
+    }
+    /* header bottom end  */
+/* categories banner-3 start */
+    .banner .banner-3{
+        flex-wrap: wrap;
+        padding: 0px;
+        margin-inline: 20px;
+    }
+    .banner .banner-3 .img{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .banner .banner-3 .women{
+        margin-inline: 0px;
+    }
+    .banner .banner-3 .men .gender-men
+{
+    left: 45%;
+}
+.banner .banner-3 .women .gender-women
+{
+    left: 43%;
+}
+.banner .banner-3 .kid .gender-kid
+{ 
+    left: 44%;
+}
+.banner .banner-3 .men
+{
+    background-size: cover;
+}
+.banner .banner-3 .women
+{
+    background-size: cover;
+}
+.banner .banner-3 .kid
+{
+    background-size: cover;
+}
+/* categories banner-3 end */
+/* banner-4 start */
+.banner .banner-4{
+    flex-wrap: wrap;
+    padding-inline: 20px;
+    margin-top: 70px;
+}
+.banner .banner-4 .left-img{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.banner .banner-4 .right-img{
+    width: 100%;
+}
+.banner .banner-4 .right-img .nav-category .cat ul li{
+    padding: 5px;
+}
+.banner .banner-4 .right-img{
+    margin: 0px;
+}
+.banner .banner-4 .right-img .product{
+    margin-top: 30px;
+}
+.banner .banner-4 .right-img .product #pro1{
+    display: none;
+}
+.banner .banner-4 .right-img .product #pro3{
+    display: none;
+}
+.banner .banner-4 .right-img .product .pro{
+    width: 100%;
+}
+.banner .banner-4 .right-img .product .product-img1 .fa-heart{
+    right: 37%;
+}
+.banner .banner-4 .right-img .product .product-img1 .effect-of-img:hover .fa-heart{
+    right: 37%;
+}
+.banner .banner-4 .right-img .product .product-img1 .effect-of-img .quick-view{
+    left: 37%;
+}
+/* banner-4 end */
+/* banner-5 start */
+.banner .banner-5{
+    margin: 0px;
+}
+.banner .banner-5 .container{
+    margin-left: 0px;
+}
+/* banner-5 end  */
+
+/* banner-6 start */
+.banner .banner-6{
+    flex-wrap: wrap;
+    padding-inline: 20px;
+}
+.banner .banner-6 .left-img{
+    width: 100%;
+}
+.banner .banner-6 .left-img .nav-category .cat ul li{
+    padding: 5px;
+}
+.banner .banner-6 .left-img{
+    margin: 0px;
+}
+.banner .banner-6 .left-img .product{
+    margin-top: 30px;
+}
+.banner .banner-6 .left-img .product #pro1{
+    display: none;
+}
+.banner .banner-6 .left-img .product #pro3{
+    display: none;
+}
+.banner .banner-6 .left-img .product .pro{
+    width: 100%;
+}
+
+.banner .banner-6 .left-img .product .product-img1 .fa-heart{
+    right: 37%;
+}
+.banner .banner-6 .left-img .product .product-img1 .effect-of-img:hover .fa-heart{
+    right: 37%;
+}
+.banner .banner-6 .left-img .product .product-img1 .effect-of-img .quick-view{
+    left: 37%;
+}
+.banner .banner-6 .right-img{
+    width: 100%;
+    margin: 0px;
+    margin-top: 50px;
+}
+/* banner-6 end */
+
+/* banner-7 start */
+.banner .banner-7{
+    flex-wrap: wrap;
+}
+.banner .banner-7 .insta-photo{
+    width: 33.33%;
+}
+.banner .banner-7 .insta{
+    width: 100%;
+}
+/* banner-7 end  */
+
+/* banner-8 start */
+.banner .banner-8{
+    padding: 0px;
+    padding-inline: 20px;
+}
+.banner .banner-8 .container .img-info{
+    flex-wrap: wrap;
+}
+.banner .banner-8 .container .img-info .content-of-img{
+    width: 100%;
+    margin-top: 20px;
+}
+.banner .banner-8 .container .shipping{
+    display: none;
+}
+.banner .banner-8 .container .heading .title{
+    margin-top: 40px;
+}
+.banner .banner-8 .container .heading .line .div{
+    left: 40%;
+}
+/* banner-8 end  */
+
+/* banner-9 start */
+.banner .banner-9 .footer-head{
+    margin-top: 50px;
+}
+
+.banner .banner-9 .footer-head .footer-img{
+    width: 100%;
+}
+.banner .banner-9 .footer-head .footer-img .foot-img{
+    width: 50%;
+    padding-left: 40px;
+}
+
+.banner .banner-9 .footer-head .footer-img #logo1{
+    display: none;
+}
+.banner .banner-9 .footer-head .footer-img #logo2{
+    display: none;
+}
+
+.banner .banner-9 .footer-middle .footer-content{
+    flex-wrap: wrap;
+    width: 100%;
+    padding-left: 10px;
+}
+.banner .banner-9 .footer-middle .footer-content .part1{
+    width: 100%;
+}
+
+.banner .banner-9 .footer-middle .footer-content .part2{
+    width: 100%;
+}
+.banner .banner-9 .footer-middle .footer-content .part3{
+    width: 100%;
+}
+.banner .banner-9 .footer-middle .footer-content .part4{
+    width: 100%;
+}
+.banner .banner-9 .footer-bottom{
+    flex-wrap: wrap;
+}
+
+.banner .banner-9 .footer-bottom .left-side{
+    width: 100%;
+    padding: 0px;
+}
+.banner .banner-9 .footer-bottom .right-side{
+    width: 100%;
+}
+.banner .banner-9 .footer-bottom .left-side p{
+    text-align: center;
+}
+/* banner-9 end */
+
+}
+
+
+@media(max-width:600px)
+{   /* header top start  */
+    .banner .header .header-top .left{
+        display: none;
+    }
+    .banner .header .header-top {
+        display: flex;
+        justify-content: center; 
+    }
+    .banner .header .header-top .right{
+        width: 100%;
+        display: flex;
+        justify-content: end;
+    }
+    .banner .header .header-top .right .icon{
+        display: none;
+    } 
+    .banner .header .header-top .right .login{
+        width: auto;
+    }
+    /* header top end*/
+    /* header middle start */
+    .banner .header .header-middle{
+        flex-wrap: wrap;
+    }
+    
+    .banner .header .header-middle .logo{
+        width: 100%;
+        padding: 10px;
+    }
+    .banner .header .header-middle .search{
+        width: 100%;
+        display: flex;
+        padding-inline: 10px;
+    }
+    .banner .header .header-middle .service{
+        width: 100%;
+        height: 50px;
+        padding-top: 10px;
+    }
+    .banner .header .header-middle .service a
+    {
+        line-height: normal;
+    }
+    .banner .header .header-middle .search input{
+        margin: 0%;
+    }
+    .banner .header .header-middle .search .btn2{
+        width: 60px;
+    }
+    .banner .header .header-middle .search .btn{
+        display: none;
+    }
+    /* header middle end */
+    /* header bottom start */
+    .banner .header .header-bottom .nav-item .item{
+        display: none;
+        width: 100%;
+    }
+    .banner .header .header-bottom .nav-item{
+        background-color:  #4C4C4C;
+        width: 100%;
+    }
+    .banner .header .header-bottom{
+        height: 50px;
+    }
+    /* header bottom end */
+    /* categories banner-3 start */
+    .banner .banner-3{
+        flex-wrap: wrap;
+        padding: 0px;
+        margin-inline: 20px;
+    }
+    .banner .banner-3 .img{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .banner .banner-3 .women{
+        margin-inline: 0px;
+    }
+.banner .banner-3 .men .gender-men
+{
+    left: 38%;
+}
+.banner .banner-3 .women .gender-women
+{
+    left: 35%;
+}
+.banner .banner-3 .kid .gender-kid
+{
+    left: 38%;
+}
+/* categories banner-3 end */
+
+/* banner-4 start */
+.banner .banner-4{
+    flex-wrap: wrap;
+    padding-inline: 20px;
+    margin-top: 70px;
+}
+.banner .banner-4 .left-img{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.banner .banner-4 .right-img{
+    width: 100%;
+}
+.banner .banner-4 .right-img .nav-category .cat ul li{
+    padding: 5px;
+}
+.banner .banner-4 .right-img{
+    margin: 0px;
+}
+.banner .banner-4 .right-img .product{
+    margin-top: 30px;
+}
+.banner .banner-4 .right-img .product #pro1{
+    display: none;
+}
+.banner .banner-4 .right-img .product #pro3{
+    display: none;
+}
+.banner .banner-4 .right-img .product .pro{
+    width: 100%;
+}
+.banner .banner-4 .right-img .product .product-img1 .fa-heart{
+    right: 20%;
+}
+.banner .banner-4 .right-img .product .product-img1 .effect-of-img:hover .fa-heart{
+    right: 20%;
+}
+.banner .banner-4 .right-img .product .product-img1 .effect-of-img .quick-view{
+    left: 26%;
+}
+/* banner-4 end */
+
+/* banner-5 start */
+.banner .banner-5{
+    margin: 0px;
+}
+.banner .banner-5 .container{
+    margin-left: 0px;
+}
+/* banner-5 end  */
+
+/* banner-6 start */
+.banner .banner-6{
+    flex-wrap: wrap;
+    padding-inline: 20px;
+}
+.banner .banner-6 .left-img{
+    width: 100%;
+}
+.banner .banner-6 .left-img .nav-category .cat ul li{
+    padding: 5px;
+}
+.banner .banner-6 .left-img{
+    margin: 0px;
+}
+.banner .banner-6 .left-img .product{
+    margin-top: 30px;
+}
+.banner .banner-6 .left-img .product #pro1{
+    display: none;
+}
+.banner .banner-6 .left-img .product #pro3{
+    display: none;
+}
+.banner .banner-6 .left-img .product .pro{
+    width: 100%;
+}
+
+.banner .banner-6 .left-img .product .product-img1 .fa-heart{
+    right: 20%;
+}
+.banner .banner-6 .left-img .product .product-img1 .effect-of-img:hover .fa-heart{
+    right: 20%;
+}
+.banner .banner-6 .left-img .product .product-img1 .effect-of-img .quick-view{
+    left: 26%;
+}
+.banner .banner-6 .right-img{
+    width: 100%;
+    margin: 0px;
+    margin-top: 50px;
+}
+/* banner-6 end */
+
+/* banner-7 start */
+.banner .banner-7{
+    flex-wrap: wrap;
+}
+.banner .banner-7 .insta-photo{
+    width: 50%;
+}
+.banner .banner-7 .insta{
+    width: 100%;
+}
+/* banner-7 end  */
+
+/* banner-8 start */
+.banner .banner-8{
+    padding: 0px;
+    padding-inline: 20px;
+}
+.banner .banner-8 .container .img-info{
+    flex-wrap: wrap;
+}
+.banner .banner-8 .container .img-info .content-of-img{
+    width: 100%;
+    margin-top: 20px;
+}
+.banner .banner-8 .container .shipping{
+    display: none;
+}
+.banner .banner-8 .container .heading .title{
+    margin-top: 40px;
+}
+.banner .banner-8 .container .heading .line .div{
+    left: 40%;
+}
+/* banner-8 end  */
+
+/* banner-9 start */
+.banner .banner-9 .footer-head{
+    margin-top: 50px;
+}
+.banner .banner-9 .footer-head .footer-img{
+    width: 100%;
+}
+.banner .banner-9 .footer-head .footer-img .foot-img{
+    width: 50%;
+    padding-left: 40px;
+}
+
+.banner .banner-9 .footer-head .footer-img #logo1{
+    display: none;
+}
+.banner .banner-9 .footer-head .footer-img #logo2{
+    display: none;
+}
+
+.banner .banner-9 .footer-middle .footer-content{
+    flex-wrap: wrap;
+    width: 100%;
+    padding-left: 10px;
+}
+.banner .banner-9 .footer-middle .footer-content .part1{
+    width: 100%;
+}
+
+.banner .banner-9 .footer-middle .footer-content .part2{
+    width: 100%;
+}
+.banner .banner-9 .footer-middle .footer-content .part3{
+    width: 100%;
+}
+.banner .banner-9 .footer-middle .footer-content .part4{
+    width: 100%;
+}
+.banner .banner-9 .footer-bottom{
+    flex-wrap: wrap;
+}
+
+.banner .banner-9 .footer-bottom .left-side{
+    width: 100%;
+    padding: 0px;
+}
+.banner .banner-9 .footer-bottom .right-side{
+    width: 100%;
+}
+.banner .banner-9 .footer-bottom .left-side p{
+    text-align: center;
+}
+/* banner-9 end */
+
+
+
+
+
+    
+
+}

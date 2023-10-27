@@ -1,0 +1,288 @@
+@media(max-width:1435px) and  (min-width:1201px)
+{
+  .banner .header .nav li a{
+    padding: 25px 5px 25px 5px;
+}
+.banner .banner-2 .left .img{
+  left: 30%;
+}
+
+
+}
+@media(max-width:1200px) and (min-width:769px)
+{
+  .banner .header{
+   
+    grid-template-columns: 3fr 7fr ;
+    
+  }
+  .banner .header .buy-now{
+    display: none;
+}
+.banner .banner-2 
+{
+    grid-template-rows: 600px;
+}
+.banner .banner-2 .left .img{
+  height: 551px;
+  width: 320px;
+  left: 23%;
+}
+.banner .banner-2 .right .text h1{
+  font-size: 3vh;
+}
+.banner .banner-2 .right .text h4{
+  font-size: 25px;
+}
+
+.banner .banner-3{
+  
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 440px;
+}
+.banner .banner-3 .image3{
+  display: none;
+}
+.banner .banner-4 .product{
+  
+  grid-template-rows: 450px;
+}
+.banner .banner-7 .news-container{
+  grid-template-columns: 1fr 1fr ;
+}
+.banner .banner-7 .news-container .part3{
+  display: none;
+}
+.banner .banner-7 .news-container .news span i{
+  display: none;
+}
+
+
+}
+   
+
+
+@media(max-width:768px)
+{
+.banner .header{
+  grid-template-columns: 1fr;
+  grid-template-rows: 70px;
+}
+.banner .header .logo{
+  padding-left: 20px;
+  justify-content: left;
+  border: none;
+}
+.banner .header .logo span{
+  display: block;
+}
+
+.banner .header .nav{
+  display: none;
+}
+.banner .header .buy-now{
+  display: none;
+}
+
+
+.banner .banner-2 .left .img{
+  display: none;
+}
+.banner .banner-2 {
+  grid-template-columns: 0.5fr 9.5fr;
+  grid-template-rows: 400px;
+}
+.banner .banner-2 .right .text{
+  padding: 30px 0 0 30px;
+  width: 100%;
+  top:20%;
+  left: 0%;
+}
+.banner .banner-2 .right .text h1{
+  font-size: 3.5lvh;
+}
+.banner .banner-2 .right a{
+  margin-top: 20px;
+  padding: 12px 20px;
+}
+.banner .banner-2 .right .text p{
+  line-height: 25px;
+}
+
+
+
+.banner .banner-3{
+  grid-template-columns: 1fr;
+
+}
+.banner .banner-3 .image2{
+  display: none;
+}
+.banner .banner-3 .image3{
+  display: none;
+}
+
+
+.banner .banner-4 .intro{
+  margin-inline: 20px;
+  width: 100%;
+}
+.banner .banner-4 .product{
+  width: 100%;
+}
+.banner .banner-4 .product{
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(8,600px) !important;
+}
+.banner .banner-4 .product .prod-img .img{
+  height: 100%;
+  margin-inline: 20px;
+}
+.banner .banner-4 .product .prod-img .effect-div{
+  top: 100%;
+}
+.banner .banner-4 .product .prod-img:hover .effect-div{
+  top: 79%;
+}
+.banner .banner-4{
+  margin: 100px 0 50px 0;
+}
+
+
+.banner .banner-5{
+background-size: 200% 100% !important;
+height: 400px;
+margin-inline: 20px;
+}
+.banner .banner-5 .content h2{
+  font-size: 40px;
+}
+.banner .banner-5 .content .shop-now a{
+  padding: 10px 25px;
+}
+.banner .banner-5 .content{
+  left: 12%;
+}
+
+
+
+.banner .banner-6 .intro{
+  margin-inline: 20px;
+  width: 100%;
+}
+.banner .banner-6 .product{
+  width: 100%;
+}
+.banner .banner-6 .product{
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(1,600px) !important;
+}
+.banner .banner-6 .product .prod-img .img{
+  height: 100%;
+  margin-inline: 20px;
+}
+.banner .banner-6 .product .prod-img .effect-div{
+  top: 100%;
+}
+.banner .banner-6 .product .prod-img:hover .effect-div{
+  top: 79%;
+}
+.banner .banner-6 .product .category{
+  display: none;
+}
+.banner .banner-6{
+  margin: 50px 0;
+
+}
+
+
+.banner .banner-7 .intro{
+  margin-inline: 20px;
+  width: 100%;
+}
+.banner .banner-7 .news-container{
+  width: 100%;
+}
+.banner .banner-7 .news-container{
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(3,550px);
+}
+.banner .banner-7 .news-container .news span i{
+  top: 89%;
+  left: 18%;
+}
+.banner .banner-7 .news-container .news:hover span i{
+  left: 20%;
+}
+.banner .banner-7 .news-container .news{
+  margin-inline: 20px;
+}
+
+
+.banner .banner-8{
+  height: 300px;
+}
+.banner .banner-8 .subscribe-section{
+  height: 250px;
+  width: 92%;
+  top: 8%;
+  left: 0%;
+  margin:0 20px;
+}
+.banner .banner-8 .subscribe-section .heading{
+  width: 100%;
+}
+.banner .banner-8 .subscribe-section .heading .subscibe-detail input{
+  width: 45%;
+}
+.banner .banner-8 .subscribe-section .heading .subscibe-detail button{
+  padding: 10px 25px;
+}
+.banner .banner-8 .subscribe-section .heading h3{
+  font-size: 30px;
+}
+
+
+.banner-9{
+  padding-top: 50px;
+}
+.banner-9 .footer{
+  width: 100%;
+}
+.banner-9 .footer .footer-top{
+  grid-template-columns: 1fr;
+  grid-template-rows: 180px;
+  grid-gap: 20px;
+}
+.banner-9 .footer .footer-top .mission h4{
+  font-size: 25px;
+}
+.banner-9 .footer .footer-top .links h4{
+  margin: 10px 0 15px 0;
+}
+.banner-9 .footer .footer-top .gallary .img{
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.banner-9 .footer .footer-top .gallary h4{
+  margin: 10px 0 15px 0;
+}
+.banner-9 .footer .footer-top .contact h4{
+  margin-bottom: 20px;
+}
+.banner-9 .footer-bottom p{
+  font-size: 17px;
+  padding-inline: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}  
